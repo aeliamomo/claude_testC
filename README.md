@@ -8,4 +8,4 @@
 
 
 ### Step 1: Check if python 3 is install
-### Step 2: Go to https://github.com/aeliamomo/claude_testC and install the rest.
+### Step 2: Go to https://github.com/aeliamomo/claude_testD and install the rest.
